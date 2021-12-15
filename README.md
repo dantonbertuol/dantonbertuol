@@ -8,7 +8,7 @@ I'm an AdvPL programmer, Power BI developer and passionate about Python.
 - 📖 Reader 
 
 <div align="center">
-  <a href="https://github.com/analuisadev">
+  <a href="https://github.com/dantonbertuol">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dantonbertuol&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantonbertuol&layout=compact&langs_count=7&theme=radical"/>
 </div>
