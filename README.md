@@ -19,6 +19,7 @@ I'm an AdvPL programmer, Power BI developer and passionate about Python.
   <a href="https://git-scm.com/"><img align="center" alt="git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
   <a href="https://code.visualstudio.com/"><img align="center" alt="vscode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></a>
   <a href="https://powerbi.microsoft.com/"><img align="center" alt="powerbi" height="40" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg"></a>
+  <a href="https://www.totvs.com/"><img align="center" alt="powerbi" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_advpl_icon_130762.png"></a>
   <img align="right" alt="picture" height="150" style="border-radius:50px;" src="https://bmsastech.com/wp-content/uploads/2020/05/feont-end-developer-vector-art.png">
 </div>
   
