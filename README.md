@@ -1,4 +1,5 @@
-![Github Profile](https://github.com/dantonbertuol/dantonbertuol/assets/32557284/708dbb3f-1780-45c2-b5d0-c23adfcebd7b)
+![Github Profile](https://github.com/dantonbertuol/dantonbertuol/assets/32557284/33b613d5-fe6d-4ec5-b5b2-a72eef1ab33c)
+
 
 <div align="center">
   <a href="https://github.com/dantonbertuol">
