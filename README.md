@@ -1,27 +1,10 @@
-### Hello 👋 I'm Danton Bertuol!
+![Github Profile](https://github.com/dantonbertuol/dantonbertuol/assets/32557284/708dbb3f-1780-45c2-b5d0-c23adfcebd7b)
 
-I'm a Data Engineer, Power BI developer and passionate about Python.
 
-- 👩‍💻 In love for Python, Data Engineering, BI and Programming
-- 👩‍🎓 Self-taught Programming and Data Engineering student 
-- 🤝 I am looking to collaborate in the creation and development of projects to expand my skills and experience
-- 📖 Reader 
-
-<div align="center">
+<div>
   <a href="https://github.com/dantonbertuol">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dantonbertuol&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantonbertuol&layout=compact&langs_count=7&theme=radical"/></a>
-</div>
-<div style="display: inline_block"><br>
-  <a href="https://www.python.org/"><img align="center" alt="python" height="40" width="40"             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
-  <a href="https://www.oracle.com/"><img align="center" alt="oracle" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"></a>
-  <a href="https://www.mysql.com/"><img align="center" alt="mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></a>
-  <a href="https://powerbi.microsoft.com/"><img align="center" alt="powerbi" height="40" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"></a>
-  <a href="https://www.totvs.com/"><img align="center" alt="powerbi" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_advpl_icon_130762.png"></a>
-  <a href="https://ubuntu.com/"><img align="center" alt="linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>
-  <a href="https://git-scm.com/"><img align="center" alt="git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
-  <a href="https://code.visualstudio.com/"><img align="center" alt="vscode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></a>
-  <img align="right" alt="picture" height="150" style="border-radius:50px;" src="https://bmsastech.com/wp-content/uploads/2020/05/feont-end-developer-vector-art.png">
 </div>
   
 ##
