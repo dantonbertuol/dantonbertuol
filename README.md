@@ -1,15 +1,17 @@
 ![Github Profile](https://github.com/dantonbertuol/dantonbertuol/assets/32557284/708dbb3f-1780-45c2-b5d0-c23adfcebd7b)
 
-
 <div align="center">
   <a href="https://github.com/dantonbertuol">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dantonbertuol&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantonbertuol&layout=compact&langs_count=7&theme=radical"/></a>
 </div>
-  
-##
-  
-  
+
+## Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dantonbertuol&repo=open-datalakehouse-stack&theme=radical)](https://github.com/dantonbertuol/open-datalakehouse-stack)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dantonbertuol&repo=join-sheets&theme=radical)](https://github.com/dantonbertuol/join-sheets)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dantonbertuol&repo=url-shortner&theme=radical)](https://github.com/dantonbertuol/url-shortner)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dantonbertuol&repo=desafio-powerbi&theme=radical)](https://github.com/dantonbertuol/desafio-powerbi)
+ 
 <div>
   <a href="https://instagram.com/dantonbertuol" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dantonbertuol" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
