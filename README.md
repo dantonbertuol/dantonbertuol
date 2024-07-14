@@ -1,4 +1,4 @@
-![Github Profile](https://github.com/dantonbertuol/dantonbertuol/assets/32557284/5d6fbb12-eccb-4c52-a59b-a8628ac84852)
+![Github Profile 13052024_crop](https://github.com/user-attachments/assets/6b330aa9-3a31-4e69-b1a0-5bf4399d8048)
 
 
 <div align="center">
