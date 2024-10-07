@@ -10,7 +10,7 @@
 ## Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dantonbertuol&repo=open-datalakehouse-stack&theme=radical)](https://github.com/dantonbertuol/open-datalakehouse-stack)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dantonbertuol&repo=join-sheets&theme=radical)](https://github.com/dantonbertuol/join-sheets)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dantonbertuol&repo=pymodoro&theme=radical)](https://github.com/dantonbertuol/url-shortner)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dantonbertuol&repo=pymodoro&theme=radical)](https://github.com/dantonbertuol/pymodoro)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dantonbertuol&repo=pyconnect&theme=radical)](https://github.com/dantonbertuol/pyconnect)
  
 <div>
